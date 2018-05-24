@@ -1,0 +1,15 @@
+{
+  "name": "why-simple-module",
+  "version": "1.0.0",
+  "description": "The package for version test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getElementsByName/why-simple-module.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
